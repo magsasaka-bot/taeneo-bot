@@ -52,7 +52,6 @@ module.exports = {
 ```
  Modify and set the `proxy.txt` file if you want to use proxy
 ```
-ip:port
 http://username:password@ip:port
 socks5://username:password@hostname:port
 ```
